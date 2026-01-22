@@ -1,7 +1,7 @@
 # 🌟 Statistical Methods in AI - Project 🌟
 
 ## Region Classification for IIITH Campus Images
-### Mayank Mittal (2022101094)
+
 
 ---
 
