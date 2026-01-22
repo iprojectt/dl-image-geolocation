@@ -89,7 +89,6 @@ My solution employs a vision transformer architecture leveraging transfer learni
 ## 📊 Results
 The model achieves excellent geographic coordinate prediction with comprehensive coverage of both validation and test sets. The final unscaled MSE of around 22,000 demonstrates the effectiveness of this Swin Transformer-based approach for the complex task of image-based geolocation.
 
-I'll create a technical summary for Part-3 based on the code you provided, following the same style and format as before.
 
 # Part-3: Angle Prediction
 ### 🧠 Model Architecture & Approach
